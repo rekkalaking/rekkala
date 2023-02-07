@@ -3,9 +3,9 @@ anataput
 miduthur
 rolla
 lowds
-<<<<<<< HEAD
 prasad
-=======
 paddi
 kadhiri
->>>>>>> 6c748fd441ec581f16fd20d570ccb5b8d52a8902
+adding lines
+adding first lines
+adding additional line

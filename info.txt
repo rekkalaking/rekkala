@@ -15,8 +15,7 @@ adding line at 14
 adding line at 15
 adding line at 16
 adding line at 17
-<<<<<<< HEAD
 adding line at 19
-=======
 adding line at 18
->>>>>>> ffb75288c20752102abe02e2697efdd8d88443ca
+adding line at 20
+adding line in 21
